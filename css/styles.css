@@ -78,9 +78,11 @@ h1{
     text-align: center;
     align-items: center;
     padding: 2rem;
+    border-radius: 5%;
 }
 .intro-hijo img{
     height: 25rem;
+    border-radius: 70%;
 }
 
 .intro-hijo p{
